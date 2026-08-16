@@ -119,4 +119,4 @@ The bridge tracks a health flag on every serial read/write. On failure it closes
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE)- SSH-based push
